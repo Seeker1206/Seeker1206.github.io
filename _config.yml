@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: Seeker93@outlook.com
 description: "等待编辑。"
 keyword: "关键字"
-url: "http://seeker1206.github.io"              # your host, for absolute URL
+url: "http://seeblog.xyz"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
