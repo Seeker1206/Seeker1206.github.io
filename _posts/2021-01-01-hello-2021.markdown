@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      "Hello 2021"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2021-01-01 20:45:00
+author:     "Seeker"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+> “Let's do it. ”
+
+
+今天是2021年的第一天，算是把[GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 这套东西搞起来了。（虽然并不是我的第一个blog）
+之前在学校时在vultr的vps上用wordpress搭过一个，后面因为vps上面的一些特殊服务导致IP总是被墙（其实主要还是因为懒），再加上每个月还要花5刀来租，我对vps也没有别的什么需求，慢慢就荒废了。
+
+最近因为工作的事情浏览了很多大佬的blog，心里又开始痒痒了，觉得还是应该搞这么个东西，再加上平时工作的一些经验总结都是写到了内网里，只有同事能看到，那么为了让更好地造福人民群众（~~主要是万一离职了自己也看不到了~~），还是决定再搞个blog出来。
+
+因为vps已经荒废到被vultr收回了，再加上已经关注GitHub Pages很久了，感觉这玩意儿非常的fashion，那就一不做二不休，淦。
+
+GitHub Pages这套东西的教程网上已经很多了，jekyll也有官方文档可以参考，搭建过程这里就不赘述了，模板fork自[黄玄](https://huangxuan.me/)大佬的github，大佬把自己的GitHub Pages当成了一个开源项目来维护，截止我fork时已经有了接近4000的fork。
+
+相比于wordpress，jekyll更为简洁，比较适合于搭建博客这种轻量级的网站，需要的前端知识会稍微多一些，不过网上的教程已经很多了，对于我这种嵌入式工程师来讲上手也不算费劲，搭建的过程中也没碰到什么难解的问题，基本上google一下都能找到答案。
+
+Anyway，新年第一天，算是给自己挖了个大坑，希望以后能勤耕不辍。
+
+如果你碰巧看到这里，希望我的blog能给你带来些帮助。
