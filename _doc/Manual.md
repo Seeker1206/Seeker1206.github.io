@@ -227,7 +227,7 @@ From V1.5, Google Analytics and Baidu Tongji are supported with a simple config 
 
 ```yml
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: 99dd47c1a5840b31ccdb8ac877d877b5
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
